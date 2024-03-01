@@ -8,8 +8,8 @@
     --branco:rgba(255, 244, 244, 1);
 }
 
-body(
+body{
     background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
-)
+}
